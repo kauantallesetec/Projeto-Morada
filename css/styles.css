@@ -1,0 +1,79 @@
+html {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #ddd;
+}
+
+.container {
+    max-width: 80%;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 40px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+.featured-image {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Biografia */
+.biography-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid rgb(221, 221, 221, 0.3);
+    border-bottom: 1px solid rgb(221, 221, 221, 0.3);
+}
+
+/* Quotes */
+.quotes-container {
+    background-color: #ddd;
+    padding: 2.4%;
+}
+
+.quotes-container blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quotes-container p {
+    font-style: italic;
+}
+
+/* Integrantes */
+.members-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px solid rgb(221, 221, 221, 0.3);
+    border-bottom: 1px solid rgb(221, 221, 221, 0.3);
+}
+
+.members-container li {
+    height: 30px;
+}
+
+.img-bold {
+    margin-top: 4%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.img-bold img {
+    width: 900px;
+}
